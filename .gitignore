@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+
+.vs/JogoTecnicas/v16/.suo
+.vs/JogoTecnicas/v16/Browse.VC.db
+.vs/ProjectSettings.json
+.vs/slnx.sqlite
+JogoTecnicas.vcxproj
+JogoTecnicas.vcxproj.filters
+
+ .vs/JogoTecnicas/v16/Browse.VC.db-shm
+ .vs/JogoTecnicas/v16/Browse.VC.db-wal
+ .vs/JogoTecnicas/v16/Browse.VC.opendb
+ .vs/JogoTecnicas/v16/ipch/
+ .vs/VSWorkspaceState.json
+x64/
