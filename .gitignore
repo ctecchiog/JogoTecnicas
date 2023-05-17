@@ -32,4 +32,10 @@
 *.app
 
 SFML/
+<<<<<<< HEAD
 .vs/
+=======
+Debug/
+.vs/
+.vscode/
+>>>>>>> 15d3c64a143286dba7eb4417abbf3f4e8e99bce9

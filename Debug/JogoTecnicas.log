@@ -1,0 +1,7 @@
+﻿  Jogador.cpp
+C:\Users\Catarina\source\repos\JogoTecnicas\Jogador.h(3,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  main.cpp
+C:\Users\Catarina\source\repos\JogoTecnicas\Principal.h(3,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  Principal.cpp
+C:\Users\Catarina\source\repos\JogoTecnicas\Principal.h(3,10): fatal error C1083: Não é possível abrir arquivo incluir: 'SFML\Graphics.hpp': No such file or directory
+  Gerando Código...
