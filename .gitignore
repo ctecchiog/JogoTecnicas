@@ -32,3 +32,6 @@
 *.app
 
 SFML/
+Debug/
+.vs/
+.vscode/
