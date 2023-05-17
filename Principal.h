@@ -1,6 +1,6 @@
 #pragma once
 #include "stdafx.h"
-#include <SFML/include/SFML/Graphics.hpp>
+#include <SFML/Graphics.hpp>
 
 class Principal {
 private:

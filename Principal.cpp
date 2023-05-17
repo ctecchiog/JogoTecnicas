@@ -1,7 +1,7 @@
 #include "Principal.h"
-#include <SFML/include/SFML/Graphics.hpp>
+#include <SFML/Graphics.hpp>
 
-Principal::Principal(): window(sf::VideoMode(800.0f, 600.0f), "Jogo")
+Principal::Principal() : window(sf::VideoMode(800.0f, 600.0f), "Jogo")
 {
 	executar();
 }
@@ -30,5 +30,5 @@ void Principal::executar()
 		window.draw(jogador);
 		window.display();
 	}
-	}
+}
 }
