@@ -4,3 +4,8 @@ Jogador::Jogador()
 {
 
 }
+
+Jogador::~Jogador()
+{
+
+}
